@@ -13,4 +13,4 @@ The following are the topics my tutorials will be based on:
 ## 2024-10-22
 
 I created a basic main menu with Play, Options and Quit buttons. I took screenshots of the steps I went through to produce it, but I might make some modifications later on.</br>
-I used tutorials by [Rehope Games](https://www.youtube.com/watch?v=DX7HyN7oJjE] and [Brackeys](https://www.youtube.com/watch?v=zc8ac_qUXQY) to help me.
+I used tutorials by [Rehope Games](https://www.youtube.com/watch?v=DX7HyN7oJjE) and [Brackeys](https://www.youtube.com/watch?v=zc8ac_qUXQY) to help me.

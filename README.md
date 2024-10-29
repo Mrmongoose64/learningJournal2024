@@ -20,3 +20,4 @@ I used tutorials by [Rehope Games](https://www.youtube.com/watch?v=DX7HyN7oJjE) 
 
 I added a "Return to Main Menu" button to the Options menu and took any necessary screenshots. I wrote the tutorial, which consists of 17 steps, each accompanied by at least one screenshot. I faced no real issues, but I did retroactively add some comments to my two scripts.<br>
 
+I found a tutorial by [Game Dev Beginner](https://www.youtube.com/watch?v=HmHPJL-OcQE) that I plan to use to assist me when creating my next tutorial, a timer system.

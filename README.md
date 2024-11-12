@@ -25,3 +25,7 @@ I found a tutorial by [Game Dev Beginner](https://www.youtube.com/watch?v=HmHPJL
 ## 2024-11-05
 
 I used the aforementioned tutorial to help construct my countdown timer system. The original used a legacy text object, so I had to do some further research to find out how the same could be done with a TextMeshPro. After making any necessary adjustments, I also taught myself how to import new fonts to Unity, something I've included in this tutorial. I took all the screenshots I needed, added descriptive steps and finished my second tutorial.
+
+## 2024-11-12
+
+I began making a randomised sound effect system for in-game footsteps. I've yet to complete this, as I'm struggling with playing sound while the player moves. I'm also unable to use a Unity feature to randomise the footstep sounds, as the computers on-site have an older version of the engine. I'll probably complete the bulk of it on a newer version at home.

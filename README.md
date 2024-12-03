@@ -29,3 +29,13 @@ I used the aforementioned tutorial to help construct my countdown timer system. 
 ## 2024-11-12
 
 I began making a randomised sound effect system for in-game footsteps. I've yet to complete this, as I'm struggling with playing sound while the player moves. I'm also unable to use a Unity feature to randomise the footstep sounds, as the computers on-site have an older version of the engine. I'll probably complete the bulk of it on a newer version at home.
+
+## 2024-11-26
+
+I finished the randomised sound effect system using the features available on a newer Unity version, and completed my tutorial for it. I'll add it to my prototype last in order to prevent any issues with upgrading and downgrading my project.
+
+## 2024-13-03
+
+I began work on the prototype project, adding in the timer system and main menu. I also made some modifications to the menu tutorial after discovering that I missed one of the steps initally (putting the scenes into build settings).<br>
+
+Once I complete the pickup counter and tutorial, I'll add it to the prototype and be left with a basic game that requires the player to pick up a certain number of objects within a limited amount of time (potentially one minute). The game will be 2D, but I've yet to decide whether I want it to be top-down or styled more like a platformer.

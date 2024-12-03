@@ -8,7 +8,7 @@ The following are the topics my tutorials will be based on:
 1. Main Menu
 2. Timer System
 3. Randomised Sound Effects
-4. In-Game GUI
+4. Pickup Counter
 
 ## 2024-10-22
 

@@ -34,8 +34,14 @@ I began making a randomised sound effect system for in-game footsteps. I've yet 
 
 I finished the randomised sound effect system using the features available on a newer Unity version, and completed my tutorial for it. I'll add it to my prototype last in order to prevent any issues with upgrading and downgrading my project.
 
-## 2024-13-03
+## 2024-12-03
 
 I began work on the prototype project, adding in the timer system and main menu. I also made some modifications to the menu tutorial after discovering that I missed one of the steps initally (putting the scenes into build settings).<br>
 
 Once I complete the pickup counter and tutorial, I'll add it to the prototype and be left with a basic game that requires the player to pick up a certain number of objects within a limited amount of time (potentially one minute). The game will be 2D, but I've yet to decide whether I want it to be top-down or styled more like a platformer.
+
+## 2024-12-10
+
+I started creating a pickup counter, largely focusing on the player's movement and the system that tracks how many pickups of each category are collected. Creating a robust movement system took some time, as I had to heavily modify my pre-existing code in order to normalise the magnitude of the player. This was done to ensure that the player wouldn't move faster when going diagonally, an issue found in a number of games that often gets exploited by speedrunners.<br>
+
+I'm using a tutorial by [Alexander Zotov](https://www.youtube.com/watch?v=8v83ThB_oXQ) for the pickup counter, and I used an old movement system I coded as a foundation for the one in this prototype.

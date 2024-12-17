@@ -45,3 +45,7 @@ Once I complete the pickup counter and tutorial, I'll add it to the prototype an
 I started creating a pickup counter, largely focusing on the player's movement and the system that tracks how many pickups of each category are collected. Creating a robust movement system took some time, as I had to heavily modify my pre-existing code in order to normalise the magnitude of the player. This was done to ensure that the player wouldn't move faster when going diagonally, an issue found in a number of games that often gets exploited by speedrunners.<br>
 
 I'm using a tutorial by [Alexander Zotov](https://www.youtube.com/watch?v=8v83ThB_oXQ) for the pickup counter, and I used an old movement system I coded as a foundation for the one in this prototype.
+
+## 2024-12-17
+
+I finished my pickup counter, which I'll now be able to add to my prototype. I also slightly changed the movement system to use physics instead of transforms, as this improves the functionality of collisions (e.g. when the player hits a wall). This isn't necessary in the pickup counter tutorial, but it's a better script that I'll be using in my prototype anyway. I've taken all the screenshots I need, and I'll compile them into my fourth and final tutorial.

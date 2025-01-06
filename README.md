@@ -58,8 +58,12 @@ I finished my pickup counter, which I'll now be able to add to my prototype. I a
 
 ## 2024-12-23
 
-I wrote the tutorial for the pickup counter, thus completing all four of them. Each tutorial had the following number of steps
+I wrote the tutorial for the pickup counter, thus completing all four of them. Each tutorial had the following number of steps:
 * Main Menu - 18
 * Timer System - 12
 * Random Sound Effects - 9
 * Pickup Counter - 13
+
+## 2024-12-29
+
+I added the random sound effects system and pickup counter to the prototype. I also continued work on the minigame itself by adding a mechanism that switches scenes once all pickups in a level have been collected.

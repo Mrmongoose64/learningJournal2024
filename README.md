@@ -7,7 +7,7 @@ The following are the topics my tutorials will be based on:
 
 1. Main Menu
 2. Timer System
-3. Randomised Sound Effects
+3. Random Sound Effects
 4. Pickup Counter
 
 ## 2024-10-22
@@ -32,9 +32,13 @@ I began making a randomised sound effect system for in-game footsteps. I've yet 
 
 ## 2024-11-26
 
-I changed my mind on making a randomised sound effect system in a newer version. Instead, I worked in the same version as my other tutorials and managed to create something that achieves a similar effect. There were initially some minor audio issues when making small movements, but I was able to fix these by only stopping the audio playback when the scene was silent.<br>
+I changed my mind on making the randomised sound effect system in a newer version. Instead, I worked in the same version as my other tutorials and managed to create something that achieves a similar effect. There were initially some minor audio issues when making small movements, but I was able to fix these by only stopping the audio playback when the scene was silent.<br>
 
 This was an especially difficult tutorial demo to complete, as I had to piece together different bits of code from various Unity forums, while also improvising during my bug fixing process.
+
+## 2024-11-30
+
+I took screenshots of my randomised sound effect system, and wrote the tutorial for it. Despite my aforementioned struggles, the tutorial ended up being the shortest of the three I've now completed.
 
 ## 2024-12-03
 
@@ -54,4 +58,8 @@ I finished my pickup counter, which I'll now be able to add to my prototype. I a
 
 ## 2024-12-23
 
-I took screenshots of both my pickup counter and randomised sound effect projects
+I wrote the tutorial for the pickup counter, thus completing all four of them. Each tutorial had the following number of steps
+* Main Menu - 18
+* Timer System - 12
+* Random Sound Effects - 9
+* Pickup Counter - 13

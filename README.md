@@ -32,7 +32,7 @@ I began making a randomised sound effect system for in-game footsteps. I've yet 
 
 ## 2024-11-26
 
-I finished the randomised sound effect system using the features available on a newer Unity version, and completed my tutorial for it. I'll add it to my prototype last in order to prevent any issues with upgrading and downgrading my project.
+I changed my mind on making a randomised sound effect system in a newer version. Instead, I worked in the same version as my other tutorials and managed to create something that achieves a similar effect. There were initially some minor audio issues when making small movements, but I was able to fix these by only stopping the audio playback when the scene was silent.
 
 ## 2024-12-03
 
@@ -49,3 +49,7 @@ I'm using a tutorial by [Alexander Zotov](https://www.youtube.com/watch?v=8v83Th
 ## 2024-12-17
 
 I finished my pickup counter, which I'll now be able to add to my prototype. I also slightly changed the movement system to use physics instead of transforms, as this improves the functionality of collisions (e.g. when the player hits a wall). This isn't necessary in the pickup counter tutorial, but it's a better script that I'll be using in my prototype anyway. I've taken all the screenshots I need, and I'll compile them into my fourth and final tutorial.
+
+## 2024-12-23
+
+I took screenshots of both my pickup counter and randomised sound effect projects

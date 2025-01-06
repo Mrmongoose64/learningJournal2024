@@ -32,7 +32,9 @@ I began making a randomised sound effect system for in-game footsteps. I've yet 
 
 ## 2024-11-26
 
-I changed my mind on making a randomised sound effect system in a newer version. Instead, I worked in the same version as my other tutorials and managed to create something that achieves a similar effect. There were initially some minor audio issues when making small movements, but I was able to fix these by only stopping the audio playback when the scene was silent.
+I changed my mind on making a randomised sound effect system in a newer version. Instead, I worked in the same version as my other tutorials and managed to create something that achieves a similar effect. There were initially some minor audio issues when making small movements, but I was able to fix these by only stopping the audio playback when the scene was silent.<br>
+
+This was an especially difficult tutorial demo to complete, as I had to piece together different bits of code from various Unity forums, while also improvising during my bug fixing process.
 
 ## 2024-12-03
 

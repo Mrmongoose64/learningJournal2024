@@ -38,7 +38,7 @@ This was an especially difficult tutorial demo to complete, as I had to piece to
 
 ## 2024-11-30
 
-I took screenshots of my randomised sound effect system, and wrote the tutorial for it. Despite my aforementioned struggles, the tutorial ended up being the shortest of the three I've now completed.
+I took screenshots of my randomised sound effect system, and wrote the tutorial for it. Despite my aforementioned struggles, the tutorial ended up being the shortest of the three I've completed so far.
 
 ## 2024-12-03
 
@@ -64,6 +64,10 @@ I wrote the tutorial for the pickup counter, thus completing all four of them. E
 * Random Sound Effects - 9
 * Pickup Counter - 13
 
-## 2024-12-29
+## 2025-01-06
 
-I added the random sound effects system and pickup counter to the prototype. I also continued work on the minigame itself by adding a mechanism that switches scenes once all pickups in a level have been collected.
+I added the pickup counter and random sound effect system to the prototype (although I've yet to implement the latter), and started developing the actual game. My idea was to have a series of maze-like levels, where the player has to collect every pickup before the time runs out. I was able to create this relatively quickly, but I did initially struggle with the code for switching scenes. I'm using the same scripts in every level, so I had to use the current scene's index as a variable, which took a while to figure out.
+
+## 2025-01-07
+
+I enabled the functionality of the random sound effect system. I made the footstep sounds myself last year during Game Production, by tapping on an electric heater and recording the audio. I also made some modifications to the resolution of the game, as I was experiencing issues when testing in my screen's native resolution. Despite not needing a build for this module, I wanted to make sure that it'd work anyway.

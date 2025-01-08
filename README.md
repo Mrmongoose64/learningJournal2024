@@ -70,4 +70,6 @@ I added the pickup counter and random sound effect system to the prototype (alth
 
 ## 2025-01-07
 
-I enabled the functionality of the random sound effect system. I made the footstep sounds myself last year during Game Production, by tapping on an electric heater and recording the audio. I also made some modifications to the resolution of the game, as I was experiencing issues when testing in my screen's native resolution. Despite not needing a build for this module, I wanted to make sure that it'd work anyway.
+I enabled the functionality of the random sound effect system. I made the footstep sounds myself last year during Game Production, by tapping on an electric heater and recording the audio. I also made some modifications to the resolution of the game, as I was experiencing issues when testing in my screen's native resolution. Despite not needing a build for this module, I wanted to make sure that it'd work anyway.<br>
+
+I recorded myself playing through the game, and spent some time editing the footage to create an in-depth video demo that details its functions. I've uploaded the project files to a new GitHub repository, and I'll soon gather everything into one place, ready for submission.
